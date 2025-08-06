@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6d822a09bd520ad4",
+        "id": "aef11be61d7f220f",
         "type": "tabs",
         "children": [
           {
-            "id": "92df92e985d7b44f",
+            "id": "7a93b9c3dbb2f63d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "00 Notes/Obsidian/Wiki/ReadMe.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Dashboard"
+              "title": "ReadMe"
             }
           }
         ]
@@ -66,8 +66,9 @@
             }
           },
           {
-            "id": "48b06e1e82a55b46",
+            "id": "92df92e985d7b44f",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -76,6 +77,7 @@
                 "source": false,
                 "backlinks": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Index"
             }
@@ -154,12 +156,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "92df92e985d7b44f",
+  "active": "7a93b9c3dbb2f63d",
   "lastOpenFiles": [
+    "00 Notes/Obsidian/Wiki/Wiki.md",
     "Index.md",
+    "00 Notes/Obsidian/How to/How To.md",
     "Dashboard.md",
     "00 Notes/Obsidian/Wiki/ReadMe.md",
-    "00 Notes/Obsidian/Wiki/Wiki.md",
     "09 Templates/Notes/New Note/Template_Note.md",
     "09 Templates/Notes/MOC2/Template_MOC2.md",
     "09 Templates/Notes/MOC3/Template_MOC3.md",
@@ -191,7 +194,6 @@
     "00 Notes/Personal/Personal.md",
     "00 Notes/Personal/Health",
     "00 Notes/Personal/Finances/Finances.md",
-    "00 Notes/Personal/Finances/Income.md",
     "06 Canvas/My Plan.canvas",
     "08 Attachments/MGB-L1HE-APA-R Monitorización Bloqueo.png",
     "08 Attachments/Mirror Position.jpeg",
