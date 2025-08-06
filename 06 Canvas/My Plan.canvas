@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"722c6e75775eeae7","type":"text","text":"Discipline","x":-440,"y":-465,"width":180,"height":60,"color":"2"},
+		{"id":"5d02f3052d71590e","type":"text","text":"Organization","x":-136,"y":-465,"width":196,"height":60,"color":"2"},
+		{"id":"bad5cb4afd4e4df8","type":"text","text":"Continnous Improvements","x":-350,"y":-285,"width":320,"height":50,"color":"2"},
+		{"id":"2f20e20f93f4beda","type":"text","text":"Goals","x":-315,"y":-65,"width":250,"height":55,"color":"2"},
+		{"id":"0e2a76f6e6362aba","type":"text","text":"Dreams","x":-315,"y":55,"width":250,"height":60,"color":"2"},
+		{"id":"10b9b550b312b97d","type":"text","text":"Steps","x":-315,"y":-185,"width":250,"height":50,"color":"2"}
+	],
+	"edges":[
+		{"id":"b0b9354a869900f5","fromNode":"722c6e75775eeae7","fromSide":"bottom","toNode":"bad5cb4afd4e4df8","toSide":"top","color":"2"},
+		{"id":"d1f4c88c22a805ea","fromNode":"5d02f3052d71590e","fromSide":"bottom","toNode":"bad5cb4afd4e4df8","toSide":"top"},
+		{"id":"c5e806647b6badb2","fromNode":"10b9b550b312b97d","fromSide":"bottom","toNode":"2f20e20f93f4beda","toSide":"top","color":"2"},
+		{"id":"d8b1f286d5721dd0","fromNode":"2f20e20f93f4beda","fromSide":"bottom","toNode":"0e2a76f6e6362aba","toSide":"top","color":"2"},
+		{"id":"10e77a959454a0ae","fromNode":"bad5cb4afd4e4df8","fromSide":"bottom","toNode":"10b9b550b312b97d","toSide":"top","color":"2"},
+		{"id":"6328ed7a8a5c42d0","fromNode":"5d02f3052d71590e","fromSide":"bottom","toNode":"bad5cb4afd4e4df8","toSide":"top","color":"2"}
+	]
+}

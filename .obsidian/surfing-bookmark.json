@@ -1,0 +1,48 @@
+{
+  "bookmarks": [
+    {
+      "id": "390495729",
+      "name": "Salomó - Wikipedia, la enciclopedia libre",
+      "url": "https://es.wikipedia.org/wiki/Salom%C3%B3",
+      "description": "",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1684954733649,
+      "modified": 1684954733649
+    },
+    {
+      "id": "2135983968",
+      "name": "cccccfff - Buscar con Google",
+      "url": "https://www.google.com/uviewer?q=cccccfff&origin=https%3A%2F%2Fwww.google.com",
+      "description": "",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1684954652666,
+      "modified": 1684954652666
+    },
+    {
+      "id": "2014068036",
+      "name": "Obsidian",
+      "url": "https://obsidian.md/",
+      "description": "A awesome note-taking tool",
+      "category": [
+        "ROOT"
+      ],
+      "tags": "",
+      "created": 1672840861051,
+      "modified": 1672840861052
+    }
+  ],
+  "categories": [
+    {
+      "value": "ROOT",
+      "text": "ROOT",
+      "label": "ROOT",
+      "children": []
+    }
+  ]
+}

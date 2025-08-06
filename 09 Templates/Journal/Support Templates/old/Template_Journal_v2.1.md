@@ -1,0 +1,75 @@
+---
+Teeth: false
+Runing: false
+gym: false
+Flexibility: false
+obsidian: false
+learn: false
+teeth: false
+runing: false
+---
+# {{date:dddd, MMMM Do, YYYY}}
+>[!Properties]- | [[{{yesterday}}|Yesterday]] | [[{{tomorrow}}|Tomorrow]] | 
+>Version:: 2.1
+>Parent:: [[{{date:MMMM, yyyy}}]]
+>Tags: #Notes
+
+>[!Time] 
+>```dataviewjs
+>const startDate = moment("1995-11-16"); // Replace with your start date
+>const endDate = moment("2080-12-31"); // Replace with your end date
+>const currentDate = moment(); // Current date
+>
+>const totalDuration = endDate.diff(startDate, "days"); // Total duration in days
+>const elapsedTime = currentDate.diff(startDate, "days"); // Elapsed time in days
+>
+>// Calculate progress percentage
+>const progressPercentage = (elapsedTime / totalDuration) * 100;
+>
+>// Clamp the progress to be between 0 and 100
+>const clampedProgress = Math.min(Math.max(progressPercentage, 0), 100);
+>
+>// Create the progress bar and the percentage text
+>const progressBar = `<progress value="${clampedProgress}" max="100"></progress><br>`;
+>const progressText = `${Math.round(clampedProgress)}% completed`;
+>
+>// Output the progress bar and the text
+>dv.span(progressBar + progressText);
+
+# Tasks:
+>[!Multi-Column] Physical
+>>[!Task] To do 
+>>```dataview
+>>task from "FolderName"
+>>where !completed
+>>```
+>
+>>[!Month] [[{{date:MMMM, yyyy}}]]
+>>```dataview
+>>task
+>>WHERE file.name = "{{date:MMMM, yyyy}}"
+>>```
+>
+# Habits:
+```meta-bind-embed
+[[Journal_Habits]]
+```
+
+# How i Feel  /  Thoughts:
+<% tp.web.daily_quote() %>
+
+# Events:
+
+
+
+# Foot:
+
+>[!metadata]- 
+>```dataviewjs
+>const currentFile = dv.current();
+>dv.list([currentFile]);
+>```
+Creation:          `=dateformat(this.file.ctime,"yyyy.MM.dd - HH:mm" )`
+Last Modified:  `=dateformat(this.file.mtime, "yyyy.MM.dd - HH:mm")`
+
+

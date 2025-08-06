@@ -1,0 +1,20 @@
+{
+  "alwaysUpdateLinks": true,
+  "strictLineBreaks": false,
+  "attachmentFolderPath": "08 Attachments",
+  "promptDelete": false,
+  "readableLineLength": false,
+  "tabSize": 4,
+  "showInlineTitle": false,
+  "propertiesInDocument": "hidden",
+  "newFileLocation": "current",
+  "showLineNumber": false,
+  "showIndentGuide": true,
+  "autoPairMarkdown": true,
+  "showUnsupportedFiles": true,
+  "trashOption": "system",
+  "useTab": false,
+  "spellcheck": true,
+  "foldIndent": true,
+  "foldHeading": true
+}

@@ -1,0 +1,39 @@
+.callout[data-callout="categories"] {
+    --callout-color: 87, 240, 255;
+    --callout-icon: lucide-clipboard-list;
+}
+
+.callout[data-callout="uncategorized"] {
+    --callout-color: 87, 240, 255;
+    --callout-icon: lucide-clipboard-list;
+  
+}
+.callout[data-callout="button"] {
+    --callout-color: 87, 240, 255;
+    --callout-icon:;
+  
+}
+
+
+.callout[data-callout="moc3"] {
+
+ --callout-color: 87, 240, 255;
+ --callout-icon:;
+border: 3px solid #73AD21;
+
+
+
+> .callout-title {
+--callout-title-color: #ff0000;
+background-color: var(--color-green-base);
+border-color: #ff0000;
+
+text-align: center !important; 
+font-size: 2em; 
+}
+
+
+
+  }
+
+

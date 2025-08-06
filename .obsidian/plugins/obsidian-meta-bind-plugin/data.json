@@ -1,0 +1,68 @@
+{
+  "devMode": false,
+  "ignoreCodeBlockRestrictions": false,
+  "preferredDateFormat": "YYYY-MM-DD",
+  "firstWeekday": {
+    "index": 1,
+    "name": "Monday",
+    "shortName": "Mo"
+  },
+  "syncInterval": 200,
+  "enableJs": false,
+  "viewFieldDisplayNullAsEmpty": false,
+  "enableSyntaxHighlighting": true,
+  "enableEditorRightClickMenu": true,
+  "inputFieldTemplates": [],
+  "buttonTemplates": [
+    {
+      "label": "+",
+      "icon": "",
+      "hidden": false,
+      "class": "moc2",
+      "tooltip": "",
+      "id": "moc2",
+      "style": "default",
+      "actions": [
+        {
+          "type": "command",
+          "command": "templater-obsidian:create-09 Templates/Notes/MOC2/Template_MOC2.md"
+        }
+      ]
+    },
+    {
+      "label": "+",
+      "icon": "",
+      "hidden": false,
+      "class": "moc3",
+      "tooltip": "",
+      "id": "moc3",
+      "style": "default",
+      "actions": [
+        {
+          "type": "command",
+          "command": "templater-obsidian:09 Templates/Notes/MOC3/Template_MOC3.md"
+        }
+      ]
+    },
+    {
+      "label": "+",
+      "icon": "",
+      "hidden": false,
+      "class": "note",
+      "tooltip": "",
+      "id": "note",
+      "style": "default",
+      "actions": [
+        {
+          "type": "command",
+          "command": "templater-obsidian:09 Templates/Notes/New Note/Template_Note.md"
+        }
+      ]
+    }
+  ],
+  "excludedFolders": [
+    "templates"
+  ],
+  "minSyncInterval": 50,
+  "maxSyncInterval": 1000
+}

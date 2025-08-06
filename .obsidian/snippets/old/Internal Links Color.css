@@ -1,0 +1,21 @@
+/* Change color of internal links */
+.cm-hmd-internal-link,  /* Editor mode */
+.internal-link {        /* Preview mode */
+    color: #ff634 !important;  /* Replace #ff6347 with your desired color */
+}
+
+/* Optional: Add hover effect for internal links */
+.cm-hmd-internal-link:hover,
+.internal-link:hover {
+    color: #ff4500 !important;  /* Replace #ff4500 with hover color */
+    text-decoration: underline 
+}
+
+
+.theme-light, .theme-dark {
+     --link-unresolved-color: var(--color-yellow)!important;
+     --link-unresolved-opacity: 0.7!important;
+     --link-unresolved-filter: none!important;
+     --link-unresolved-decoration-style: dotted!important;
+     --link-unresolved-decoration-color: var(--color-yellow)!important;
+ }

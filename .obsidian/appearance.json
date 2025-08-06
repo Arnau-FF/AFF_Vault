@@ -1,0 +1,19 @@
+{
+  "baseFontSize": 21,
+  "theme": "obsidian",
+  "cssTheme": "My Gruvbox",
+  "translucency": false,
+  "accentColor": "#867d41",
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "Custom supercharged links",
+    "supercharged-links-gen",
+    "Chekboxes",
+    "Dataview",
+    "Core_Obsidian",
+    "MCL Multi Column"
+  ],
+  "baseFontSizeAction": false,
+  "showRibbon": true
+}

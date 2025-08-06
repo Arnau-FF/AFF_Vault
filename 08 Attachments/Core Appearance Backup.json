@@ -1,0 +1,21 @@
+{
+  "baseFontSize": 21,
+  "theme": "obsidian",
+  "cssTheme": "Material Gruvbox",
+  "translucency": false,
+  "accentColor": "#867d41",
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "MCL Multi Column",
+    "Custom supercharged links",
+    "supercharged-links-gen",
+    "MCL Wide Views",
+    "MCL Gallery Cards",
+    "Chekboxes",
+    "Dataview",
+    "Core_Obsidian"
+  ],
+  "baseFontSizeAction": false,
+  "showRibbon": true
+}

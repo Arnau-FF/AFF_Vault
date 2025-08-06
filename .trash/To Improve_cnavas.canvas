@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"9d4cd8ee9f0ae5ac","x":-500,"y":-460,"width":300,"height":578,"type":"text","text":"To do :"},
+		{"id":"84906dbf2163a65c","x":-465,"y":-280,"width":230,"height":50,"type":"file","file":"00 Notes/99 Obsidian/WorkFlow/WorkFlow.md"}
+	],
+	"edges":[]
+}

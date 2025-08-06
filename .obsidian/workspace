@@ -1,0 +1,119 @@
+{
+  "main": {
+    "id": "39b562a570db3af9",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc208b74e95a3285",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Platform Stats.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9a3aff956d72f689",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f405a3fddaa76d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1bc4134015b0d86",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "9a789b40109bfb84",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "9d526559e24054f1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 264
+  },
+  "right": {
+    "id": "08c3b8dc95400d79",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a4876f1f8a7d588",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfb8f594f554dd89",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          },
+          {
+            "id": "ec9a9f480b75ee21",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Platform Stats.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 290
+  },
+  "active": "cc208b74e95a3285",
+  "lastOpenFiles": [
+    "Planner/Daily Planner - Monday.md",
+    "Categories/Content Creation/All The Equipment You Need To Start Your Livestream.md",
+    "Categories/Content Creation/Grind Culture And Streaming.md",
+    "Categories/Wellbeing/Highly Sensitive.md",
+    "Categories/Wellbeing/Having An Eating Disorder As An Influencer.md",
+    "Planner/Daily Planner - Friday.md",
+    "Templates/Daily Planner Template.md",
+    "Planner/Sample Planner.md",
+    "Planner/Daily Planner - Thursday.md",
+    "Categories/Content Creation/How To Easily Improve Accessibility & User Experience On Twitch.md"
+  ]
+}

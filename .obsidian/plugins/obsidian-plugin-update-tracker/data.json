@@ -1,0 +1,17 @@
+{
+  "daysToSuppressNewUpdates": 3,
+  "dismissedVersionsByPluginId": {
+    "quickadd": {
+      "pluginId": "quickadd",
+      "pluginRepoPath": "chhoumann/quickadd",
+      "dismissedVersions": []
+    }
+  },
+  "showIconOnMobile": false,
+  "showNotificationOnNewUpdate": false,
+  "excludeBetaVersions": true,
+  "excludeDisabledPlugins": true,
+  "minUpdateCountToShowIcon": 0,
+  "hoursBetweenCheckingForUpdates": 0.5,
+  "hideIconIfNoUpdatesAvailable": false
+}
