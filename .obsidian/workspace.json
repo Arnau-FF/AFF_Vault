@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Index.md",
+                "file": "00 Notes/Obsidian/Wiki/Wiki.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Index"
+              "title": "Wiki"
             }
           }
         ]
@@ -155,8 +155,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eb3515844b044de6",
+  "active": "f3c6f6361801bba2",
   "lastOpenFiles": [
+    "Index.md",
     "00 Notes/Obsidian/Wiki/Wiki.md",
     "00 Notes/Obsidian/Wiki/Vault Structure.md",
     "00 Notes/Obsidian/Wiki/Vault Statistics.md",
@@ -182,7 +183,6 @@
     "00 Notes/Obsidian/Wiki/Callout Manager.md",
     "00 Notes/Obsidian/Wiki/Calendar.md",
     "00 Notes/Obsidian/Wiki/Bugs.md",
-    "00 Notes/Obsidian/Wiki/Auto-link Title.md",
     "00 Notes/Obsidian/Wiki",
     "00 Notes/test3",
     "00 Notes/test area2",
