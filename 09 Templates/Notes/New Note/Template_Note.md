@@ -19,7 +19,10 @@ if (variable_name) {
 
  // Create and move note
   let new_file = await tp.file.create_new(new_file_content, variable_name,false);
- 
+
+// wait Mili seconds, avoid not having parent displayed properly
+    await sleep(01)
+    
 // open note ( File.create_new argument open note dosent work, not update properly)
   await app.workspace.openLinkText(variable_name, path);
   }
